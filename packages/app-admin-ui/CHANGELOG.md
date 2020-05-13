@@ -1,5 +1,11 @@
 # @keystonejs/app-admin-ui
 
+## 6.0.2
+
+### Patch Changes
+
+- [`15943a1e`](https://github.com/keystonejs/keystone/commit/15943a1e808957364c56707fc8289ddda6bb77aa) [#2939](https://github.com/keystonejs/keystone/pull/2939) Thanks [@Vultraz](https://github.com/Vultraz)! - Fixed no-access indicators not showing up in list table.
+
 ## 6.0.1
 
 ### Patch Changes
